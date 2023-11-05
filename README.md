@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshit Badyal</h1>
-<h3 align="center">Passionate IT professional with strong commitment to continuous learning and skills development.</h3>
+<h3 align="center"> IT professional with strong commitment to continuous learning and skills development.</h3>
 
 <img align="middle" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
