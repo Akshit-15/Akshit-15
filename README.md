@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshit Badyal</h1>
 <h3 align="center"> IT professional with strong commitment to continuous learning and skills development.</h3>
 
-<img align="middle" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
-
 
 - 🔭 I’m currently working at [ADP](https://www.adp.com/) where my current role as a Full Stack Developer involves
   - 👨‍💻 Develop and maintain micro-services that perform full stack operations using Restful API's and GraphQl.
