@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshit Badyal</h1>
 <h3 align="center"> IT professional with strong commitment to continuous learning and skills development.</h3>
-- 🔭 I’m currently working at [ServiceNow](https://www.servicenow.com/) where my current role as a Software Engineer (IC2).
+- 🔭 I’m currently working at ServiceNow where my current role as a Software Engineer (IC2).
 
 
 - 🔭 Previously working at [ADP](https://www.adp.com/) where my current role as a Full Stack Developer involves
